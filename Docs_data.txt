@@ -1,0 +1,42 @@
+Email - info.goldmaker24@gmail.com
+Password - Gold$#M123!@*%$%12
+PhpMailer - hxoecmshpufwmcef
+
+
+
+if(isset($_REQUEST[""])){
+
+
+  // when sql true
+  if($sql==true){
+    $main_st = "success";
+    $title = "";
+    $msg = " Success";
+    //pending email send all investor SMTP
+  }else{
+    $main_st = "danger";
+    $title = "";
+    $msg = " Fail";
+  }
+  header("location:index?notification=$main_st&msg=$title&title=$msg");
+}
+
+$Date = date('Y-m-d', strtotime($data["date"]));
+
+
+
+// Set Activity ===
+$ActivityName = 'Recive_admin_notice';
+$AcMsg = 'Recive Admin Important Notice';
+$actyivity=set_in_activity($ActivityName,$AcMsg);
+
+
+
+// end date calculate===
+$startDate = date('Y-m-d', strtotime($startDate));
+$endDate= date('Y-m-d', strtotime($Date. ' + 10 days'));
+// end date calculate===
+
+
+replace link
+  onclick="window.location.replace('verify.html');"

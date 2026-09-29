@@ -1,0 +1,39 @@
+{
+  "name": "GoldMaker",
+  "short_name": "GoldMaker",
+  "start_url": "splash.php",
+  "display": "fullscreen",
+  "background_color": "#092C9F",
+  "theme_color": "#092C9F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+     "src": "../assets/images/logo/Goldmaker-squre-cool-sm.png",
+      "type": "image/png", "sizes": "72x72"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-squre-cool-sm.png",
+      "type": "image/png", "sizes": "96x96"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-squre-cool-sm.png",
+      "type": "image/png", "sizes": "144x144"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-squre-cool-sm.png",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-circle-simple-sm.png",
+      "type": "image/png", "sizes": "180x180"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-circle-simple-sm.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "../assets/images/logo/Goldmaker-circle-simple-sm.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}

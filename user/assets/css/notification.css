@@ -1,0 +1,22 @@
+.notification_warning .toast-body {
+    background: linear-gradient(45deg, #4f0000, #d40000);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.notification_warning button.btn-close {
+    color: black;
+    font-size: 15px;
+}
+.notification_header_warning{
+    background: #e24500 !important;
+}
+/* success notification */
+
+.notification_success .toast-body {
+    background: linear-gradient(45deg, #33d600, #0064ff);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.notification_header_success{
+    background:linear-gradient(260deg, #00b017, #ff3600) !important;
+}

@@ -1,0 +1,4 @@
+user - goldmaker24_main_user
+password - 6_]%y4Tn!%ga
+database - goldmaker24_main
+ 

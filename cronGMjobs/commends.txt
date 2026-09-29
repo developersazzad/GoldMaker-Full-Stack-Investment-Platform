@@ -1,0 +1,1 @@
+php -q /home5/bdserver/public_html/cronGMjobs/investorBonus12.php>/dev/null 2>&1

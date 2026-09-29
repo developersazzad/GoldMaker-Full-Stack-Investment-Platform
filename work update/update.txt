@@ -1,0 +1,5 @@
+set New database
+name - OnlineStatus
+email,
+Datetime, - varcar 1000
+INSERT INTO `onlinestatus`(`id`, `Emai`, `Datetime`) VALUES ()

@@ -1,0 +1,22 @@
+Sign up - Create Account
+
+Verify identity - ID Verification
+Choose investment - Pick Investment Plan
+Fund account - Add Funds
+Place investment order - Invest Now
+Monitor investments - Track Portfolio Performance
+
+Sign up for an account on Goldmaker's website. This will require you to provide your personal information and create a login and password.
+
+Verify your identity. To ensure the security of the platform, Goldmaker may require you to verify your identity by providing identification documents such as a driver's license or passport.
+
+Choose an investment option that fits your goals and risk tolerance. Goldmaker may offer various investment options such as stocks, bonds, mutual funds, or exchange-traded funds (ETFs). Each investment option has different risks and returns, so it's important to understand them before making a decision.
+
+
+//===
+
+Fund your account. Once you have chosen your investment option, you will need to fund your account. Goldmaker may offer several payment options such as bank transfer, credit/debit card, or e-wallet.
+
+Place your investment order. After funding your account, you can now place your investment order. You will need to specify the amount you want to invest and the investment option you have chosen.
+
+Monitor your investments. After placing your investment order, you can monitor your investments through Goldmaker's website. You can also set up alerts to receive notifications about your investment performance.

@@ -1,0 +1,35 @@
+// define the countdown schedule using natural language,
+// you can find some example schedules below.
+
+// - 'every hour'
+// - 'every minute'
+// - 'every 2 hours'
+// - 'every 10 minutes'
+// - 'every 45 seconds'
+// - 'till 10 every hour'
+// - 'from 13 every hour'
+// - 'from 12 till 15 every hour'
+// - 'every hour wait 10 minutes'
+// - 'every day at 13:15:40'
+// - 'every day at 11'
+// - 'every day at 11 wait 2 hours'
+// - 'every monday at 12'
+// - 'every sunday at 11 wait 2 hours'
+// - 'sunday every hour from 10 till 12'
+// - 'sunday every hour wait 10 minutes'
+// - 'every 1st day of the month at 12:00'
+// - 'every 2nd day of the month at 12:00'
+// - 'every first day of the month at 12:00'
+// - 'every last day of the month at 12:00'
+// - 'every 1st day of the month at 11:55 wait 10 minutes'
+// - 'every 2nd day of the month from 10 till 14 every hour wait 10 minutes'
+// - 'every januari the 12th at 12:00'
+// - 'every 12th of januari at 12:00'
+
+// combine multiple schedules
+// - 'monday at 12, tuesday at 14, friday at 12'
+
+// pass timezone
+// Tick.count.schedule('every monday at 12:00', { timezone: '+01:00' })
+
+// create the schedule counter

@@ -1,0 +1,156 @@
+a.button_tabs {
+  margin: 3px;
+  padding: 10px 22px !important;
+  font-size: 12px;
+  font-weight: 700;
+  color: white !important;
+  border-radius: 4px;
+}
+.card.img-card.bg_success_gradient_admin {
+    background: linear-gradient(46deg, #ff0000,black, #17ff00,#0003ff);
+}
+button.btn.btn-primary.buttons-html5 {
+    font-size: 10px;
+}
+.bg_success_gradient {
+    background: linear-gradient(to bottom right, #000000 0%, #da00ff 100%) !important;
+}
+.bg_pink {
+    background: linear-gradient(34deg, #0200ff, #ff5722) !important;
+  }
+  .bg_green {
+    background: linear-gradient(45deg, #0dff17, #141419);
+  }
+.light-mode h3{
+  color: white !important;
+  }
+.light-mode .card-title{
+  color: white !important;
+  }
+.light-mode h3.d-inline-block{
+  color: white !important;
+  }
+.light-mode span.tag_tag-orange{
+   color: white !important;
+}
+.card_title{
+  color:white!important;
+  font-weight:700;
+}
+.light-mode .card_title{
+  color:black!important;
+  font-weight:700;
+}
+.colorinput-color:before {
+    content: "";
+    opacity: 0;
+    position: absolute;
+    top: 6px !important;
+    left: 6px !important;
+    height: 3rem !important;
+    width: 3rem !important;
+    background-color: #18c800;
+    border-radius: 50%;
+    transition: 0.3s opacity;
+    background: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E) no-repeat center center/50% 50%;
+}
+label.colorinput.banner_set_pakages span.colorinput-color {
+    width: 120px !important;
+    height: 50px !important;
+    border-radius: 0 !important;
+}
+.bold_big{
+  font-size: 24px !important;
+  font-weight:700 !important;
+}
+.main-profile-contact-list.sp_user_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+.card-title.sp_title {
+    background: #7f7f7f33;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.text_md{
+  font-size:18px !important;
+}
+label.colorinput.slider_set_pakages span.colorinput-color {
+    width: 120px !important;
+    height: 120px !important;
+    border-radius: 0 !important;
+}
+
+img.header-brand-img.light-logo1 {
+    height: 55px !important;
+}
+img.header-brand-img.toggle-logo {
+    height: 25px !important;
+}
+img.header-brand-img.light-logo1 {
+    height: 50px !important;
+}
+img.header-brand-img.desktop-logo {
+    width: 186px;
+}
+@media(max-width:767px){
+  a.button_tabs {
+    margin: 3px;
+    padding: 5px !important;
+    font-size: 12px;
+    font-weight: 700;
+    color: white !important;
+    border-radius: 4px;
+}
+label.colorinput.banner_set_pakages span.colorinput-color {
+    width: 80px !important;
+    height: 30px !important;
+    border-radius: 0 !important;
+ }
+}
+.media-icon{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input.btn_search {
+    background: none;
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+@media(min-width:780px){
+  img.docs_img.file-manager-list.w-100.h-100 {
+    width: 30% !important;
+ }
+}
+img.img_profile_docs.image-fluid {
+    background: #ffffff1f;
+}
+span.name_h {
+    padding: 2px 8px;
+    background: #3F51B5;
+    border-radius: 4px;
+}
+hr.hr_docs {
+    margin: 10px 0px;
+}
+a.btn {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+a.btn.btn-sm {
+    display: inline-block !important;
+}
+.card-options a.btn {
+    font-size: 25px;
+}
+.dark-mode .text-green {
+    color: #0cff00 !important;
+    filter: brightness(1.5);
+}
