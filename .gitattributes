@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# GitHub Linguist configuration
+# Keep frontend/support files out of language statistics
+# so the repository's PHP code is shown as the primary language.
+
+*.js        linguist-detectable=false
+*.css       linguist-detectable=false
+*.scss      linguist-detectable=false
+*.sass      linguist-detectable=false
+*.less      linguist-detectable=false
+*.html      linguist-detectable=false
+*.htm       linguist-detectable=false
+*.json      linguist-detectable=false
+
+# Source maps are generated files and should not affect language statistics.
+*.map       linguist-generated=true
+
+# Minified frontend assets are vendored/generated-style assets.
+*.min.js    linguist-vendored=true
+*.min.css   linguist-vendored=true
