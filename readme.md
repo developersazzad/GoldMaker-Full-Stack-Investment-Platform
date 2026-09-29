@@ -65,7 +65,7 @@ A powerful backend control panel designed for operators to manage every aspect o
 
 ## 📂 Directory Structure
 
-`	ext
+```	ext
 ├── admin/                  # Secure administrator dashboard & logic
 ├── user/                   # Investor PWA interface & account tools
 ├── create/                 # Authentication (Login, Register, Password Reset)
@@ -74,20 +74,23 @@ A powerful backend control panel designed for operators to manage every aspect o
 ├── dapendency/             # External libraries and Canva visual templates
 ├── DB.sql                  # Complete database schema and initial data
 └── index.php               # Public landing page (Conversion surface)
-`
+```
 
 ---
 
-## 🔗 Developer & Design Resources
+## 👤 Developer
 
-*All developer credits, design templates, and operational hooks have been preserved in the system.*
+**Sazzad Hossain** — Full-Stack Web Developer
+`@developersazzad`
 
-- **Visual Assets (Canva Templates):**
-  - [Logo Design](https://www.canva.com/design/DAFa1N9TfGU/MLBt9FqV36tvV0FgafWG6w/edit)
-  - [GoldMaker Certificates](https://www.canva.com/design/DAFbssargXo/H-J7lWnrSIdMW2XY6YO7Tg/edit)
-  - [Icon Set](https://www.canva.com/design/DAFahuY9WDQ/dyUtU6OIPZuJpjd2UdCBuA/edit)
-  - [Customization Assets](https://www.canva.com/design/DAFazMvZ21E/BJ40KaZGspmxs7ruXvvpFQ/edit)
+| Platform | Link |
+|---|---|
+| 🐙 GitHub | [github.com/developersazzad](https://github.com/developersazzad) |
+| 💼 LinkedIn | [linkedin.com/in/developer-sazzad](https://linkedin.com/in/developer-sazzad) |
+| 🌐 Portfolio | [sazzad.wedevspro.com](https://sazzad.wedevspro.com) |
+| 📘 Facebook | [fb.com/developersazzad](https://fb.com/developersazzad) |
+| 💬 WhatsApp | [wa.me/8801877856951](https://wa.me/8801877856951) |
+| ▶️ YouTube | [youtube.com/@sazzadhossain01](https://youtube.com/@sazzadhossain01) |
 
----
 
 > **Note on Compatibility:** This platform has been heavily optimized for modern PHP 8.1+ environments. It employs safe null coalescing, explicit type casting, and structured data handling to ensure zero-warning execution on modern servers.
